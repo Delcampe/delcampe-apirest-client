@@ -27,7 +27,7 @@ Use the Wiki tab of this site, to find :
 As the API is based on REST, you basically need this information:
 
 1. Your API key. Contact the Delcampe API support to get yours
-2. When you have your API key, call /seller with POST HTTP method to get your personal token. 
+2. When you have your API key, call [/seller](https://github.com/Delcampe/delcampe-apirest-client/wiki/sellerPost) with POST HTTP method to get your personal token. 
 
 In order to help you, we propose, for each API resource, code samples in PHP. We'll try to add also other language helpers in the future: Java, Ruby, .net, Python, Perl, ... 
 
