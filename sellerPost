@@ -1,0 +1,13 @@
+//RESOURCE CALL WITH POST METHOD
+$postData = array(
+    'apikey' => 'VgIvKPksIjZYxyJNgUpFgf2VHqkS8m53cm66aHP2ANgGm94bkHHs6RVmfQMwJq7M'
+);
+
+$url = 'http://rest.delcampe.net/seller';
+$ch = curl_init();
+curl_setopt ($ch, CURLOPT_URL, $url);
+curl_setopt ($ch, CURLOPT_POST, true);
+curl_setopt ($ch, CURLOPT_POSTFIELDS, http_build_query($postData) );
+curl_setopt ($ch, CURLOPT_FOLLOWLOCATION, true);
+curl_setopt ($ch, CURLOPT_RETURNTRANSFER, true);
+$xml_response = curl_exec($ch);
