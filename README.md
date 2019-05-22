@@ -1,4 +1,4 @@
-#Welcome !
+# Welcome !
 
 The Delcampe API allows you to communicate easily with the Delcampe.net services. It allows you to start sales, close them, be informed when items are sold, etc.
 
