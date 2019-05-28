@@ -1,3 +1,8 @@
+# WARNING !
+For safety reasons. As of January 1, 2020, the use of HTTP protocol will no longer be available.
+
+Please use HTTPS protocol from now.
+
 # Welcome !
 
 The Delcampe API allows you to communicate easily with the Delcampe.net services. It allows you to start sales, close them, be informed when items are sold, etc.
@@ -27,7 +32,7 @@ Use the Wiki tab of this site, to find :
 As the API is based on REST, you basically need this information:
 
 1. Your API key. Contact the Delcampe API support to get yours
-2. When you have your API key, call [/seller](https://github.com/Delcampe/delcampe-apirest-client/wiki/sellerPost) with POST HTTP method to get your personal token. 
+2. When you have your API key, call [/seller](https://github.com/Delcampe/delcampe-apirest-client/wiki/sellerPost) with POST HTTPS method to get your personal token. 
 
 In order to help you, we propose, for each API resource, code samples in PHP. We'll try to add also other language helpers in the future: Java, Ruby, .net, Python, Perl, ... 
 
