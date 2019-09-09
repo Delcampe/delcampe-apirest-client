@@ -40,7 +40,7 @@ In order to help you, we propose, for each API resource, code samples in PHP. We
 
 * [How to start](https://github.com/Delcampe/delcampe-apirest-client/wiki/How-to-start)
 * [List of Delcampe's API resource](https://github.com/Delcampe/delcampe-apirest-client/wiki/List-of-Delcampe%27s-API-resource)
-* There is an API forum on the Delcampe's website. Please send an email to mailto:support_api@delcampe.com to ask an access to this forum.
+* [API Forum](https://www.delcampe.net/en_GB/forum/api-users) on the Delcampe website
 * Fair use policy: a maximum of 500 000 image update using API calls is allowed per day. 
 
 ## Feedback and contact
