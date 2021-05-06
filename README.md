@@ -43,6 +43,15 @@ In order to help you, we propose, for each API resource, code samples in PHP. We
 * There is an [API forum on the Delcampe's website](https://www.delcampe.net/en_GB/forum/api-users).
 * Fair use policy: a maximum of 500 000 image update using API calls is allowed per day. 
 
+## User rate limit
+
+The user rate limit is the number of requests that can be made by any user on the Delcampe API.
+The maximum authorized request per minute is 180 any subsequent requests will fail with an HTTP code 429.
+
+## Warranty
+
+The Delcampe API, Services and all related parts thereof are provided on an “as is” and “as available” basis and with “best effort” support, but without any warranties of any kind either expressed or implied. This includes but is not limited to any warranties of merchantability, fitness for a particular purpose, flawless and uninterrupted functioning and reliability.
+
 ## Feedback and contact
 
 * [Contact Delcampe](https://github.com/Delcampe/delcampe-apirest-client/wiki/Contact-Delcampe)
