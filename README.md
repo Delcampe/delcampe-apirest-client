@@ -48,7 +48,7 @@ In order to help you, we propose, for each API resource, code samples in PHP. We
 The user rate limit is the number of requests that can be made by any user on the Delcampe API.
 The maximum authorized request per minute is 180 any subsequent requests will fail with an HTTP code 429.
 
-The default limit for adding new items will be set at 10.000 calls/day, which our data shows should suffice for most businesses on Delcampe. 
+On 1st december 2022, the default limit for adding new items will be set at 10.000 calls/day, which our data shows should suffice for most businesses on Delcampe. 
 Should your volume exceed that or increase, please contact our Customer Support team en@delcampe-support.com so we can review your use case so we can verify that your application is adhering to Delcampe’s Terms & Conditions, and that you've made the most efficient use of the tools you've implemented.
 
 ## Warranty
